@@ -25,9 +25,6 @@ My interests are web development and anything else that is related to technology
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
   <img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  <img alt="NumPy"src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  <img alt="mySQl" src="https://img.shields.io/badge/MySQL-4375cc?&style=for-the-badge&logo=mysql&logoColor=white">
+
   <br>
   
