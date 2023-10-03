@@ -1,7 +1,7 @@
 <h2> Hey there! Glad to see you here. 😁</h3>
 I'm a front-end web dev from Hyderabad, India. 
 <br>
-My interests are web development, data science and anything else that is related to technology and business.
+My interests are web development and anything else that is related to technology and business.
 <br>
 
 ### You can reach me out through 📫
