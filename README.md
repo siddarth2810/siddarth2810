@@ -25,6 +25,8 @@ My interests are web development and anything else that is related to technology
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
   <img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-f05030?&style=for-the-badge&logo=git&logoColor=white">
+ <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
   <br>
   
