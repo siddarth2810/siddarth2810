@@ -13,6 +13,11 @@ My interests are web development and anything else that is related to technology
   <a href="https://twitter.com/Siddarth_0910"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   
 </div>
+
+### My blog
+
+<a href="https://siddarth.hashnode.dev/" target="_blank"><img alt="HashNode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+
 <hr>
 
 ### Languages and tools I know and have worked with:
