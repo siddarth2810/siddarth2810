@@ -1,8 +1,13 @@
-<h2> Hey there! Glad to see you here. 😁</h3>
-I'm a Web dev from Hyderabad, India. 
-<br>
-My interests are anything else that is related to technology and computers, and I enjoy geeking out on these things.
-<br>
+### Hi there! 👋  I'm Siddarth 
+
+### About Me
+
+ - I'm a full-stack developer from India.
+ - I spend a significant amount of time coding and playing with computers.
+ - I am an open source lover and I enjoy geeking out on tech 😄
+
+### **My Portfolio**:
+<a href="https://siddarth.tech/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Firefox&style=flat&logoColor=#FF7139"/></a>
 
 ### You can reach me out through 📫
 
@@ -14,26 +19,36 @@ My interests are anything else that is related to technology and computers, and 
   
 </div>
 
+
 ### My blog
 
 <a href="https://siddarth.hashnode.dev/" target="_blank"><img alt="HashNode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 
 <hr>
 
-### Languages and tools I know and have worked with:
+### Repositories that I've contributed to 🌟
+|||
+|:---:|:---:|
+|[![Internetarchive/openlibrary - GitHub](https://gh-card.dev/repos/Internetarchive/openlibrary.svg?fullname=)](https://github.com/Internetarchive/openlibrary)|[![gitpod-io/community - GitHub](https://gh-card.dev/repos/gitpod-io/community.svg?fullname=)](https://github.com/gitpod-io/community)|
+|[![NixOS/nix.dev - GitHub](https://gh-card.dev/repos/NixOS/nix.dev.svg?fullname=)](https://github.com/NixOS/nix.dev)||
+
+### Languages and Technologies I know and have worked with:
 
 <div align="left">
    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    <img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img alt="Git" src="https://img.shields.io/badge/Git-f05030?&style=for-the-badge&logo=git&logoColor=white">
- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
+   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+     <img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 
   <br>
-    <img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
+     <img alt="NixOs" src= "https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/Git-f05030?&style=for-the-badge&logo=git&logoColor=white">
+ <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/azure-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <br>
   
