@@ -2,9 +2,14 @@
 
 ### About Me
 
- - I'm a full-stack developer from India.
  - I spend a significant amount of time coding and playing with computers.
- - I am an open source lover and I enjoy geeking out on tech 😄
+ - I love open source tech and truly enjoy geeking out on tech
+   
+
+### Projects
+- [Naash](https://devfolio.co/projects/yaash-yet-another-ai-shell-192b) : An AI-powered shell. [Watch Demo](https://www.youtube.com/watch?v=6xZ1Gxxiu1U)
+- [Blast-Box](https://github.com/siddarth2810/blast-box) : A real-time multiplayer game inspired from the game diep.io
+  
 
 ### **My Portfolio**:
 <a href="https://siddarth.tech/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Firefox&style=flat&logoColor=#FF7139"/></a>
@@ -15,16 +20,15 @@
 
 <a href="https://dev.to/siddarth2810"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a>
 
-#### Personal blogs
-<a href="https://siddarth.hashnode.dev/" target="_blank"><img alt="HashNode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-
-
 
 ### Recent Technical blogs
 
 
+* [Introduction to message brokers: Kafka essentials](https://dev.to/siddarth2810/introduction-to-message-brokers-kafka-essentials-3ddk)
 * [Faster Terminal Navigation with Tmux and Fuzzy finder](https://dev.to/siddarth2810/faster-terminal-navigation-with-tmux-and-fuzzy-finder-1217)
 
+#### Personal blogs
+<a href="https://siddarth.hashnode.dev/" target="_blank"><img alt="HashNode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 
 ---
 ### You can reach me out through 📫
