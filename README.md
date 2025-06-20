@@ -7,6 +7,7 @@
    
 
 ### Projects
+- [AskMyDoc](https://github.com/siddarth2810/AskMyDoc_v2) : AI Powered Interactive PDF Chatbot. [Watch Demo](https://youtu.be/2bEsCRoJWOI?si=uVRSxyemsxSgAnMe)
 - [Naash](https://devfolio.co/projects/yaash-yet-another-ai-shell-192b) : An AI-powered shell. [Watch Demo](https://www.youtube.com/watch?v=6xZ1Gxxiu1U)
 - [Blast-Box](https://github.com/siddarth2810/blast-box) : A real-time multiplayer game inspired from the game diep.io
   
