@@ -49,7 +49,7 @@
 |||
 |:---:|:---:|
 |[![Internetarchive/openlibrary - GitHub](https://gh-card.dev/repos/Internetarchive/openlibrary.svg?fullname=)](https://github.com/Internetarchive/openlibrary)|[![gitpod-io/community - GitHub](https://gh-card.dev/repos/gitpod-io/community.svg?fullname=)](https://github.com/gitpod-io/community)|
-|[![NixOS/nix.dev - GitHub](https://gh-card.dev/repos/NixOS/nix.dev.svg?fullname=)](https://github.com/NixOS/nix.dev)||
+
 
 ### Languages and Technologies I know and have worked with:
 
