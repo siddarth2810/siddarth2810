@@ -45,11 +45,6 @@
 
 <hr>
 
-### Repositories that I've contributed to 🌟
-|||
-|:---:|:---:|
-|[![Internetarchive/openlibrary - GitHub](https://gh-card.dev/repos/Internetarchive/openlibrary.svg?fullname=)](https://github.com/Internetarchive/openlibrary)|[![gitpod-io/community - GitHub](https://gh-card.dev/repos/gitpod-io/community.svg?fullname=)](https://github.com/gitpod-io/community)|
-
 
 ### Languages and Technologies I know and have worked with:
 
