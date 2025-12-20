@@ -7,6 +7,7 @@
    
 
 ### Projects
+- [Http server](https://github.com/siddarth2810/http-server) : An implementation of HTTP server from scratch.
 - [AskMyDoc](https://github.com/siddarth2810/AskMyDoc_v2) : AI Powered Interactive PDF Chatbot. [Watch Demo](https://youtu.be/2bEsCRoJWOI?si=uVRSxyemsxSgAnMe)
 - [Naash](https://devfolio.co/projects/yaash-yet-another-ai-shell-192b) : An AI-powered shell. [Watch Demo](https://www.youtube.com/watch?v=6xZ1Gxxiu1U)
 - [Blast-Box](https://github.com/siddarth2810/blast-box) : A real-time multiplayer game inspired from the game diep.io
@@ -23,7 +24,7 @@
 
 
 ### Recent Technical blogs
-
+* [Deploying SimpleScalble Loki on Kubernetes ](https://dev.to/siddarth2810/multi-tenant-loki-on-kubernetes-o17)
 * [My Linux Kernel Mentorship experience](https://dev.to/siddarth2810/my-linux-kernel-mentorship-experience-4870)
 * [Introduction to message brokers: Kafka essentials](https://dev.to/siddarth2810/introduction-to-message-brokers-kafka-essentials-3ddk)
 * [Faster Terminal Navigation with Tmux and Fuzzy finder](https://dev.to/siddarth2810/faster-terminal-navigation-with-tmux-and-fuzzy-finder-1217)
