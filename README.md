@@ -1,13 +1,13 @@
 ### Hi there! 👋  I'm Siddarth 
 
 ### About Me
- - I'm currently doing Observibility stuff at Tower Cloud
  - I spend a significant amount of time coding and playing with computers.
  - I love open source tech and truly enjoy geeking out on tech
    
 
 ### Projects
 - [Knot](https://github.com/siddarth2810/Knot) : A Chrome extension + OpenClaw workflow for turning what you read on the internet into social posts and blog drafts.
+- [SiteKick](https://github.com/aifambience/SiteKick) : Generate and deploy sites from simple prompts via WhatsApp.
 - [AskMyDoc](https://github.com/siddarth2810/AskMyDoc_v2) : AI Powered Interactive PDF Chatbot. [Watch Demo](https://youtu.be/2bEsCRoJWOI?si=uVRSxyemsxSgAnMe)
 - [Naash](https://devfolio.co/projects/yaash-yet-another-ai-shell-192b) : An AI-powered shell. [Watch Demo](https://www.youtube.com/watch?v=6xZ1Gxxiu1U)
 - [Blast-Box](https://github.com/siddarth2810/blast-box) : A real-time multiplayer game inspired from the game diep.io
