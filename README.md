@@ -6,12 +6,15 @@
    
 
 ### Projects
-- [Knot](https://github.com/siddarth2810/Knot) : A Chrome extension + OpenClaw workflow for turning what you read on the internet into social posts and blog drafts.
-- [SiteKick](https://github.com/aifambience/SiteKick) : Generate and deploy sites from simple prompts via WhatsApp.
+- [Http server](https://github.com/siddarth2810/http-server) : An implementation of HTTP server from scratch to understand the internals of HTTP protocol
 - [AskMyDoc](https://github.com/siddarth2810/AskMyDoc_v2) : AI Powered Interactive PDF Chatbot. [Watch Demo](https://youtu.be/2bEsCRoJWOI?si=uVRSxyemsxSgAnMe)
 - [Naash](https://devfolio.co/projects/yaash-yet-another-ai-shell-192b) : An AI-powered shell. [Watch Demo](https://www.youtube.com/watch?v=6xZ1Gxxiu1U)
 - [Blast-Box](https://github.com/siddarth2810/blast-box) : A real-time multiplayer game inspired from the game diep.io
-- [Http server](https://github.com/siddarth2810/http-server) : An implementation of HTTP server from scratch to understand the internals of HTTP protocol
+- [Knot](https://github.com/siddarth2810/Knot) : A Chrome extension + OpenClaw workflow for turning what you read on the internet into social posts and blog drafts.
+- [SiteKick](https://github.com/aifambience/SiteKick) : Generate and deploy sites from simple prompts via WhatsApp.
+- [Odin-md](https://github.com/siddarth2810/Odin) : TUI based Markdown file Previewer
+- [Claude Code Instrumentation](https://github.com/siddarth2810/claude-code-instrumentation) : Hooks based instrumentation for Claude-code using Grafana tempo
+- [Multithreaded Web Server](https://github.com/siddarth2810/Multi-threaded-Web-Server) : A simple HTTP server that handles multiple requests concurrently using a thread pool
 - [Code Editing Agent](https://github.com/siddarth2810/coding-agent-brr) : A CLI based coding agent using OpenAI SDK
   
 
@@ -19,20 +22,14 @@
 <a href="https://siddarth2810.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Firefox&style=flat&logoColor=#FF7139"/></a>
 
 
-
-#### Technical blogs
-
-<a href="https://dev.to/siddarth2810"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a>
-
-
-### Recent Technical blogs
-* [Deploying SimpleScalble Loki on Kubernetes ](https://dev.to/siddarth2810/multi-tenant-loki-on-kubernetes-o17)
+### Recent blogs
+* [Cold Calls, Sales and Startup Founders](https://siddarth2810.github.io/blogs/cold_calls_sales_and_startup/)
+* [TSDB to Parquet](https://siddarth2810.github.io/blogs/tsdb_to_parquet/)
+* [Deploying SimpleScalble Loki on Kubernetes](https://dev.to/siddarth2810/multi-tenant-loki-on-kubernetes-o17)
 * [My Linux Kernel Mentorship experience](https://dev.to/siddarth2810/my-linux-kernel-mentorship-experience-4870)
 * [Introduction to message brokers: Kafka essentials](https://dev.to/siddarth2810/introduction-to-message-brokers-kafka-essentials-3ddk)
 * [Faster Terminal Navigation with Tmux and Fuzzy finder](https://dev.to/siddarth2810/faster-terminal-navigation-with-tmux-and-fuzzy-finder-1217)
 
-#### Personal blogs
-<a href="https://siddarth.hashnode.dev/" target="_blank"><img alt="HashNode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 
 ---
 ### You can reach me out through 📫
